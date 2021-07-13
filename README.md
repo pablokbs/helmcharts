@@ -1,3 +1,3 @@
 # helmcharts
 
-Mi repo de helm charts #wow
+Mi repo de helm charts #wow #suchchart
